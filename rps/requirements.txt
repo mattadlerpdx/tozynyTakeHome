@@ -1,0 +1,4 @@
+e3db
+python-dotenv
+dateutil
+parser
